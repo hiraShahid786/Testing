@@ -18,6 +18,11 @@ namespace Assignment18.Controllers
             return View();
         }
 
+        public IActionResult Cash()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
